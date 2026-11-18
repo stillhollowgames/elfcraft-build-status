@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-11-05T19:44:16.196317+00:00",
-  "commit": "e23a8c2",
+  "generated_at": "2026-11-18T17:48:53.952586+00:00",
+  "commit": "1506111",
   "tests": {
-    "passing": 0,
+    "passing": 1760,
     "failing": 0,
-    "total": 0,
-    "seconds": 0.0
+    "total": 1760,
+    "seconds": 5.79
   },
   "build": null,
   "health": "green"
